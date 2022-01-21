@@ -1,9 +1,9 @@
 primera linea del curso de git
 
-se inicio el 28 ene 2022
+se inicio el 29 de enero de 2022
 
 por tercera vez primero en marzo abril 2021
 
-luego septiembre del 2022
+luego sep 2021
 
-regresamos del reset hard clase  12 segundo cambio clase 12
+mañana ya mepezaremos con sql
